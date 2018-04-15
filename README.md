@@ -2,7 +2,9 @@
 Project on AngularsJs 4. Creating new jokes and deleted 
 
 To run project locally use pythan serve
-python -m SimpleHTTPServer
+
+"python -m SimpleHTTPServer"
+
 run the above command in side your project root folder
 
 for e.g. if you will download the repository , you can see folder name "angularJs_Joke_Project-master" 
